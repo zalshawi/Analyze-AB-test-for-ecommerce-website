@@ -13,7 +13,7 @@ A/B test run for an E-commerce website. Goal is to help the company understand i
 - A/B Test
 - Regression(logistic)
 
-
+# Some result
 ![](https://i.imgur.com/zRitt0P.png)
 
 # Files
