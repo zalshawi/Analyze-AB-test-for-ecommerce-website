@@ -1,4 +1,31 @@
-# Analyze AB test for E-commerce website
+# Analyze A/B test for E-commerce website
 
 # Introduction
-A/B test run for an #-commerce website. Goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+A/B test run for an E-commerce website. Goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+# Key Points
+- Contain around 300K users.
+- The test runs from 2/1/2017 to 24/1/2017 (23 days).
+
+
+# Process
+- Probability(proportions)
+- A/B Test
+- Regression(logistic)
+
+# Files
+- Analyze_AB_Test_for_E-commerce Website .ipynb main file work through  all the project.
+
+# Datasets: 
+- ab_data.csv (Given from Udacity)
+- countries.csv (Given from Udacity)
+
+
+# Software Needed
+The following packages (libraries) need to be installed:
+- Pandas
+- NumPy
+- Random
+- matplotlib
+- statsmodels.api 
+- scipy.stats
