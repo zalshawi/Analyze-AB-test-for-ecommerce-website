@@ -14,7 +14,7 @@ A/B test run for an E-commerce website. Goal is to help the company understand i
 - Regression(logistic)
 
 
-![](https://imgur.com/a/gUTq7pr)
+![](https://i.imgur.com/zRitt0P.png)
 
 # Files
 - Analyze_AB_Test_for_E-commerce Website .ipynb main file work through  all the project.
