@@ -26,4 +26,5 @@ A/B test run for an E-commerce website. Goal is to help the company understand i
 
 # Code and Resources Used
 **Python Verison:** 3.7 
+
 **packages:** Pandas, NumPy, Random, matplotlib, statsmodels.api, scipy.stats
